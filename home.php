@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="">
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <link rel="stylesheet" type="text/css" href="css/ionicons.min.css"/>
+    </head>
+    <body>
+        <header>
+            <nav>
+                <div class="chooses">
+                    <img src="css/image/logo.jpg" alt="coffee logo" class="logo">
+                    <ul class="choose">
+                        <li><a href="#">About Us</a></li>
+                        <li><a href="index.php">Menu</a></li>
+                        <li><a href="#">Contact Us</a></li>
+                        <li><a href="#">Log In</a></li>
+                    </ul>
+                </div>
+            </nav>
+            <div class="tittle">
+                <h1>Coffee Buns Subang</h1>
+                <p>So delicious relax with a Buns Cake</p>
+                <a href="#" class="btn btn-ghost">Show More</a>
+            </div>
+        </header>
+        
+    </body>
+</html>
+
+
+/*<section class="section-about">
+            <div class="image-wrapping">
+                <div class="about">
+                    <img src="css/image/cake.jpg">
+                    <img src="css/image/bahan.jpg">
+                </div>
+                <div class="image">
+                    <img src="css/image/chimmy.jpg">
+                </div>
+            </div>
+            <div class="paragraph">
+                <h2>About Us</h2>
+                <p>Kami cafe buns pertama yang menyediakan farian rasa kue buns di kota Subang. Dengan bahan yang 
+                    berkualitas dengan sepenuh hati kami, kami buat kue buns menjadi kue mewah dengan tekstur lembut dan 
+                    isian yang meleleh dimulut saat digigit.</p>
+                <div class="button">
+                <a href="#" class="btn btn-full">Contact us</a>
+                <a href="#" class="btn btn-ghost">menu</a>
+                </div>
+            </div>
+        </section>
+        <section class="section-owner">
+            <div class="ntah">
+                <h2>Owner</h2>
+            </div>
+            <div class="owner">
+                <img src="css/image/jimin.jpg" alt="owner" class=" img-owner">
+                <blockquote>
+                    Saya sebagai pendiri dari cafe buns ini sungguh bersyukur dengan diberi kepercayaan olehnya,
+                    unutk mendirikan cafe ini. Wakaupun cafe ini sederhana tapi insyaallah cafe ini akn menjadi cafe
+                    favorite bagi peminatnya.
+                    Sukses akan terjangkau asalkan tetap ikhtiar dan bersyukur kepadanya.
+                    <cite>Peni Adilah</cite>
+                </blockquote>
+            </div>
+        </section>
+        <footer>
+                <div class="row">
+                    <div class="col span-1-of-2">
+                        <ul class="footer-nav">
+                            <li><a href="#">Blog </a></li>
+                            <li><a href="#">Press</a></li>
+                            <li><a href="#">iOS App</a></li>
+                            <li><a href="#">Android App</a></li>
+                        </ul>
+                    </div>
+                    <div class="col span-1-of-2">
+                        <ul class="social-links">
+                            <li><a href="#"><i class="ion-social-facebook"></i></a></li>
+                            <li><a href="#"><i class="ion-social-twitter"></i></a></li>
+                            <li><a href="#"><i class="ion-social-googleplus"></i></a></li>
+                            <li><a href="#"><i class="ion-social-instagram"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </footer>*/
